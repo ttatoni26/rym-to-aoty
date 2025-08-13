@@ -15,7 +15,7 @@ This project allows you to transfer your album ratings from RateYourMusic (RYM) 
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/music_ratings.git
+   git clone https://github.com/ttatoni26/rym-to-aoty.git
    cd music_ratings
    ```
 2. Install dependencies:
